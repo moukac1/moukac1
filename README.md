@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
 ---
@@ -70,21 +71,7 @@
 
 ---
 
-## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Projects
-
-- ⚽ Botola Pro – Football match tracker (React + Flask)
-- 🌐 Personal Portfolio (React)
-- ☁️ Coming soon: Cloud & DevOps projects
-
----
 
 ## 📫 Connect With Me
 
