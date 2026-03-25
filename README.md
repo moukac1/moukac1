@@ -3,19 +3,13 @@
 <p align="center">
   💻 Software, Cloud & DevOps Engineering Student @ INPT <br>
   🚀 Full Stack Developer | Cloud & DevOps Enthusiast
+   Always learning new technologies
+
 </p>
 
 ---
 
-## 🚀 About Me
 
-- 🎓 Student at **INPT**
-- 💡 Passionate about **Software Engineering & Scalable Systems**
-- ☁️ Focused on **Cloud & DevOps**
-- 🔥 Currently building full-stack apps & learning system design
-- 📚 Always learning new technologies
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,12 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -76,13 +65,13 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mouad.kacimi05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/moukac1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/mouad-kacimi>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
